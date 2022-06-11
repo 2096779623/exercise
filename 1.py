@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 '''
-@File    :   练习.py
-@Time    :   2022/06/11 19:39:08
+@File    :   1.py
+@Time    :   2022/06/11 19:54:09
 @Author  :   2096779623 
 @Contact :   admin@utermux.dev
 @License :   MIT
